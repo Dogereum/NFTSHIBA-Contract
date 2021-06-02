@@ -1,1 +1,2 @@
-# NFTSHIBA-Contract
+# NFTSHIBA
+Smart Contract
